@@ -1,0 +1,10 @@
+{
+  "name": "elkar-a2a",
+  "version": "0.1.0",
+  "description": "Elkar - Task management for AI Agents, ready for Agent2Agent (A2A) protocol",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
